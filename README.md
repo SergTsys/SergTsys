@@ -1,4 +1,4 @@
-[![Header] (https://github.com/SergTsys/SergTsys/blob/main/Assets/photo%20pr1.jpg)]
+<img src="https://github.com/SergTsys/SergTsys/blob/main/Assets/photo%20pr1.jpg" alt="The Unlimited" width="180"/>
 
 About Me
 
