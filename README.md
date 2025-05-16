@@ -4,6 +4,8 @@
 
 I’m a junior QA specialist, just getting started in the field of software testing.
 
+📄 [My CV / Resume (PDF)](https://drive.google.com/file/d/1S-SJsvXnW7-BjiPJ49Nd36ydMjwHbUOy/view)
+
 I recently completed my training in software quality assurance and am continuing to grow professionally. Creating this GitHub profile is part of adopting tools and practices widely used in the IT industry — and GitHub has become one of my first steps.
 
 ---
