@@ -48,7 +48,7 @@ Here are some of the repositories where I share my learning artifacts
 📌 **Helpful Notes & Guides**
 A collection of practical notes, techniques, and mini-guides for working with APIs and testing tools.
 
-- [📁 Guides Folder](https://github.com/SergTsys/x-challenger-postman/blob/main/README.md)
+- [📁 Guides Folder](https://github.com/SergTsys/educationGit/tree/main/Guides)
 
 
 
