@@ -1,6 +1,6 @@
 <img src="https://github.com/SergTsys/SergTsys/blob/main/Assets/photo%20pr1.jpg"/>
 
-# 👋 Hello! I'm Sergei
+# Hello! I'm Sergei
 
 I’m a junior QA specialist, just getting started in the field of software testing.
 
@@ -10,7 +10,7 @@ I recently completed my training in software quality assurance and am continuing
 
 ---
 
-## 🧰 What you'll find here
+## What you'll find here
 
 This profile is where I collect materials from my learning and practice — artifacts that stay after the work is done:
 
@@ -24,7 +24,7 @@ These reflect my progress and help show my path in QA — one step at a time.
 
 ---
 
-## 🧪 Tech & Tools I'm working with
+## Tech & Tools I'm working with
 
 Here are some of the tools and technologies I'm learning and using:
 
@@ -35,10 +35,10 @@ Here are some of the tools and technologies I'm learning and using:
 
 ---
 
-## 🔗 Internship, training and practice
+## Internship, training and practice
 Here are some of the repositories where I share my learning artifacts
 
-🔍 **REST API Testing**
+**REST API Testing**
 
 Work with API testing tools, Postman collections, documentation writing, and utility development
 
@@ -46,7 +46,7 @@ Work with API testing tools, Postman collections, documentation writing, and uti
 - [📄 Project README](https://github.com/SergTsys/educationGit/blob/main/REST%20API%20Testing/%D1%81hallenger-api-postman/README.md)
 
 
-📌 **Helpful Notes & Guides**
+**Helpful Notes & Guides**
 
 A collection of practical notes, techniques, and mini-guides for working with APIs and testing tools.
 
