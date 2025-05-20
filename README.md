@@ -41,15 +41,14 @@ Here are some of the repositories where I share my learning artifacts
 🔍 **REST API Testing**
  Work with API testing tools, Postman collections, documentation writing, and utility development
 
-- 📂 [Postman Collection] https://github.com/SergTsys/educationGit/blob/main/REST%20API%20Testing/%D1%81hallenger-api-postman/X-Challenger%20full%20collection%20requests.postman_collection.json
-- 📄 [Collection README] https://github.com/SergTsys/educationGit/blob/main/REST%20API%20Testing/%D1%81hallenger-api-postman/README.md
+- [📂 Postman X-Challenger Collection](https://github.com/SergTsys/educationGit/blob/main/REST%20API%20Testing/%D1%81hallenger-api-postman/X-Challenger%20full%20collection%20requests.postman_collection.json)
+- [📄 Project README](https://github.com/SergTsys/educationGit/blob/main/REST%20API%20Testing/%D1%81hallenger-api-postman/README.md)
+
 
 📌 **Helpful Notes & Guides**
 A collection of practical notes, techniques, and mini-guides for working with APIs and testing tools.
 
-- 
-
-Here are some of the repositories where I share my learning artifacts:
+- [📁 Guides Folder](https://github.com/SergTsys/x-challenger-postman/blob/main/README.md)
 
 
 
