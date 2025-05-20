@@ -35,7 +35,16 @@ Here are some of the tools and technologies I'm learning and using:
 
 ---
 
-## 🔗 Projects & Practice
+## 🔗 Internship, training and practice
+
+🔍 **REST API Testing**
+ Work with API testing tools, Postman collections, documentation writing, and utility development
+
+- 📂 [Postman Collection] REST API Testing/сhallenger-api-postman/X-Challenger full collection requests.postman_collection.json
+- 📄 [Collection README] REST API Testing/сhallenger-api-postman/README.md
+
+📌 **Helpful Notes & Guides**
+A collection of practical notes, techniques, and mini-guides for working with APIs and testing tools.
 
 Here are some of the repositories where I share my learning artifacts:
 
