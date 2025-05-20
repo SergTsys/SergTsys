@@ -39,7 +39,7 @@ Here are some of the tools and technologies I'm learning and using:
 Here are some of the repositories where I share my learning artifacts
 
 🔍 **REST API Testing**
- Work with API testing tools, Postman collections, documentation writing, and utility development
+Work with API testing tools, Postman collections, documentation writing, and utility development
 
 - [📂 Postman X-Challenger Collection](https://github.com/SergTsys/educationGit/blob/main/REST%20API%20Testing/%D1%81hallenger-api-postman/X-Challenger%20full%20collection%20requests.postman_collection.json)
 - [📄 Project README](https://github.com/SergTsys/educationGit/blob/main/REST%20API%20Testing/%D1%81hallenger-api-postman/README.md)
