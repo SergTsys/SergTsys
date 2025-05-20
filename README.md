@@ -1,6 +1,6 @@
 <img src="https://github.com/SergTsys/SergTsys/blob/main/Assets/photo%20pr1.jpg"/>
 
-# Hello! I'm Sergei
+## Hello! I'm Sergei
 
 I’m a junior QA specialist, just getting started in the field of software testing.
 
