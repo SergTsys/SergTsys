@@ -38,6 +38,12 @@ Here are some of the tools and technologies I'm learning and using:
 ## Internship, training and practice
 Here are some of the repositories where I share my learning artifacts
 
+**Internship: Gectaro Web Application**
+
+Performed functional, UI, and API testing of the system, prepared various types of test documentation
+
+- [📂 Testing Gectaro Support Module](https://github.com/SergTsys/educationGit/tree/main/Testing%20Gectaro%20Support%20Module)
+
 **REST API Testing**
 
 Work with API testing tools, Postman collections, documentation writing, and utility development
